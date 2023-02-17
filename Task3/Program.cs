@@ -4,16 +4,8 @@
 //7 -> да
 //1 -> нет
 
-Console.WriteLine("Введите цифру:");
+Console.WriteLine("Введите день недели:");
 int Num = Convert.ToInt32(Console.ReadLine());
-
-int Понедельник = 1;
-int Вторник = 2;
-int Среда = 3;
-int Четверг = 4;
-int Пятница = 5;
-int Суббота = 6;
-int Воскресенье = 7;
 
 if ( Num > 5)
 {
