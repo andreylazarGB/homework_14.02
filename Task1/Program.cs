@@ -7,7 +7,7 @@
 Console.Clear();
 
 // 1 способ
-//Console.WriteLine("Введите число: ");
+//Console.WriteLine("Введите трёчзначное число: ");
 //int a = Convert.ToInt32(Console.ReadLine());
 
 int a = new Random().Next(100, 1000);
